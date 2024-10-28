@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Neeraj Bassi].😁
+### Hi there 👋, I am Neeraj Bassi.😁
 
 <!--
 **NeerajBassi/NeerajBassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
