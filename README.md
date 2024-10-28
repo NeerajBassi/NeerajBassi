@@ -20,16 +20,9 @@ Hello, my name is Neeraj Bassi and I am a Microsoft certified data engineer base
 - 📫 How to reach me: bassineeraj966@gmail.com or connect with me over [LinkedIn](https://www.linkedin.com/in/neerajbassi/)
 
 
-![Neeraj's Github Stats](https://github-readme-stats.vercel.app/api?username=NeerajBassi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajBassi&hide=TeX&layout=compact)
 
-<h2> Github Stats </h2>
-<p> 
-  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeerajBassi&theme=tokyonight" />
-</p>
-<p> 
-  <img alt="Lang Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeerajBassi&theme=tokyonight" />
-  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeerajBassi&theme=tokyonight" />
-</p>
+<img alt="Neeraj's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeerajBassi&theme=tokyonight" />
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NeerajBassi.NeerajBassi)
