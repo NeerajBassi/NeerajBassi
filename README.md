@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Neeraj Bassi and I am a Microsoft certified data engineer based in Pune, India working at [Knorr Bremse](https://www.knorr-bremse.com/en/). I have 2.5+ years of experience working as a data engineer. My technology stack involves Python, SQL, Scala and Pyspark. I have experience in building robust data pipelines on Azure cloud using services like Azure functions, ADF, Azure Synapse Analytics and Azure Databricks.
+My name is Neeraj Bassi and I am a Microsoft certified data engineer based in Pune, India working at [Knorr Bremse](https://www.knorr-bremse.com/en/). I have 2.5+ years of experience working as a data engineer. My technology stack involves Python, SQL, Scala and Pyspark. I have experience in building robust data pipelines on Azure cloud using services like Azure functions, ADF, Azure Synapse Analytics and Azure Databricks.
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: bassineeraj966@gmail.com or connect with me over [LinkedIn](https://www.linkedin.com/in/neerajbassi/)
